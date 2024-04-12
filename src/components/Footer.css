@@ -1,0 +1,37 @@
+/* .footer{
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+  
+
+} */
+/* /* .footer {
+    position: fixed; 
+ bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: black; 
+    padding: 10px 0;
+    display: flex;
+    text-align: center;
+    
+    border-top: 1px solid #e9ecef; 
+    color: white; 
+}  */
+    
+
+.footer {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 60px; /* Adjust height as needed */
+  background-color: black; /* Adjust background color as needed */
+  color: white;
+}
+
+
+  

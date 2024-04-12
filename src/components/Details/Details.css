@@ -1,0 +1,52 @@
+img{
+    width: 250px;
+   
+    padding-top: 6rem;
+}
+.carddetails{
+    margin: 2rem;
+    padding: 1rem 0rem;
+    width: 90%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    border: none;
+   
+
+}
+.btn1{
+    background-color: rgb(97, 97, 247);
+    color: white;
+    margin-bottom: 1rem;
+    border: none;
+    padding-left: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.btn2{
+    margin-bottom: 1rem;
+    border: none;
+    padding-left: 1.25rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    
+}
+.prices{
+    color: rgb(246, 184, 69);
+    margin-bottom: 1rem;
+}
+
+.decr{
+    text-align: left;
+    margin-bottom: 1rem;
+}
+.head{
+    margin-bottom: 1rem;
+}
+
+.row{
+    height: 80vh;
+}
